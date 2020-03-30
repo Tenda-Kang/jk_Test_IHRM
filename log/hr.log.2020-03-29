@@ -1,0 +1,136 @@
+2020-03-29 16:36:42,480 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x033E0230>
+2020-03-29 16:36:42,484 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 16:36:42,537 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:36:42,572 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 16:36:42,572 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 16:36:42,674 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:36:42,721 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:36:42,774 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:42:38,553 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x03DAF270>
+2020-03-29 16:42:38,553 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 16:42:38,610 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:42:38,610 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 16:42:38,610 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 16:42:38,716 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:42:38,767 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:42:38,815 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:14,823 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x03E2F270>
+2020-03-29 16:43:14,823 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 16:43:14,875 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:14,876 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 16:43:14,876 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 16:43:14,980 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:15,026 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:15,074 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:25,698 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x0364F270>
+2020-03-29 16:43:25,698 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 16:43:25,753 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:25,754 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 16:43:25,754 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 16:43:25,856 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:25,907 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:25,952 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 16:43:50,662 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<api.api_login.ApiLogin object at 0x036DA030>
+2020-03-29 16:43:50,662 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 16:43:50,715 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:33:42,742 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033E4230>
+2020-03-29 17:33:42,742 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:33:42,793 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:33:42,794 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 17:33:42,794 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 17:33:42,898 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:33:42,948 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:33:42,995 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:34:11,206 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x04063490>
+2020-03-29 17:34:11,206 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:34:11,259 ERROR [root] [assert_common.py (assert_common:17] -  :: 200 != 201
+2020-03-29 17:48:08,319 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033E1290>
+2020-03-29 17:48:08,319 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:48:08,374 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:48:08,375 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 17:48:08,375 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 17:48:08,477 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:48:08,525 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:48:08,574 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 17:48:22,755 INFO [root] [test01_login.py (setUp:21] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x03C73490>
+2020-03-29 17:48:22,755 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:48:22,809 ERROR [root] [assert_common.py (assert_common:17] -  :: 200 != 201
+2020-03-29 17:55:37,227 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x037D46D0>
+2020-03-29 17:55:37,227 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:55:37,281 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x02E96CB0>
+2020-03-29 17:55:37,281 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:57:55,369 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A46D0>
+2020-03-29 17:57:55,370 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:57:55,427 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A49D0>
+2020-03-29 17:57:55,427 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:58:28,248 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033C46D0>
+2020-03-29 17:58:28,248 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:58:28,304 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033C49D0>
+2020-03-29 17:58:28,304 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:59:09,889 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x043846D0>
+2020-03-29 17:59:09,889 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 17:59:09,942 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x043849D0>
+2020-03-29 17:59:09,942 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:00:51,237 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A46D0>
+2020-03-29 18:00:51,237 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:00:51,292 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A49D0>
+2020-03-29 18:00:51,292 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:02:37,710 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A46D0>
+2020-03-29 18:02:37,711 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:02:37,765 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A49D0>
+2020-03-29 18:02:37,766 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:03:19,269 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A46D0>
+2020-03-29 18:03:19,269 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:03:19,323 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x0339EC70>
+2020-03-29 18:03:19,323 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:04:00,008 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x03D14690>
+2020-03-29 18:04:00,009 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:04:00,062 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x03D14990>
+2020-03-29 18:04:00,062 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:04:49,996 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x040346D0>
+2020-03-29 18:04:49,996 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:04:50,050 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x040349D0>
+2020-03-29 18:04:50,050 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:05:14,901 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033B94F0>
+2020-03-29 18:05:14,902 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:05:14,954 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x007059B0>
+2020-03-29 18:05:14,954 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:07:03,876 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A46D0>
+2020-03-29 18:07:03,876 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:07:03,931 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x033A49D0>
+2020-03-29 18:07:03,931 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:07:21,422 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x039646F0>
+2020-03-29 18:07:21,422 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:07:21,480 INFO [root] [test01_login.py (setUp:31] - 正在初始化 ApiLogin对象：<Test_IHRM.api.api_login.ApiLogin object at 0x039649B0>
+2020-03-29 18:07:21,481 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:08:37,434 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:08:37,488 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:11:07,580 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:11:07,634 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:13:19,673 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:13:19,726 INFO [root] [api_login.py (api_login:15] - 正在执行登录操作，手机：13800000002 密码：123456
+2020-03-29 18:25:00,814 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:25:00,814 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:30:25,952 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:30:25,952 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:30:26,004 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 18:32:11,445 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:32:11,445 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:33:19,279 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:33:19,280 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:33:19,329 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 18:34:44,025 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:34:44,025 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:36:04,256 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:36:04,256 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:37:22,247 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:37:22,247 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:37:44,745 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:37:44,745 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:39:57,982 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:39:57,982 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
+2020-03-29 18:39:58,082 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 18:39:58,129 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 18:39:58,182 ERROR [root] [assert_common.py (assert_common:17] - 200 != 201
+2020-03-29 18:42:20,418 INFO [root] [api_employee.py (__init__:14] - 正在初始化新增员工url：http://182.92.81.159/api/sys/user
+2020-03-29 18:42:20,418 INFO [root] [api_employee.py (__init__:17] - 正在初始化修改员工url：http://182.92.81.159/api/sys/user/{}
